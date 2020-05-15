@@ -55,7 +55,7 @@ logo = """
 
 \033[1;96m══║══▒═💀═▒═💀═▒═══¤═¤═¤═════════════════════║🔥
 \033[1;96m══║✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 ☪ 𝓜𝓻 𝓥𝓲𝓿𝓮𝓴 ║🔥
-\033[1;96m══║✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ☪ WTF GAMING ║🔥
+\033[1;96m══║✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ☪ Technical Vivek ║🔥
 \033[1;96m══║✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊 ☪║🔥
 \033[1;96m══║══▒═💀═▒═💀═▒═══¤═¤═¤═════════════════════║🔥"""
 
@@ -116,10 +116,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.youtube.com/channel/UCH7j834P0j87tPIJ-Y5vUgQ')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.youtube.com/channel/UCH7j834P0j87tPIJ-Y5vUgQ')
 
 def login():
 	os.system('clear')
@@ -307,9 +307,9 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m        ❈     \x1b[1;31mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
-	print " \033[1;31;40m●💀════════════════════════◄🦇►════════════════════════💀●"
+	print " \033[1;32;40m●💀════════════════════════◄🦇►════════════════════════💀●"
 
-	jalan('             \033[1;31mVivek Started Cloning  Wait...')
+	jalan('             \033[1;34mVivek Started Cloning  Wait...')
 	print  "\033[1;36;40m ●💀════════════════════════◄🦇►════════════════════════💀●" 
 
 	def main(arg):
